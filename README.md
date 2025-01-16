@@ -5,8 +5,8 @@
 이름: 오성준
 
   - 생년월일: 1999-01-04
-  - 연락처: 010-2167-0212
   - Github: https://github.com/sunujun
+  - 이메일: tiger8708@gmail.com
 
 ### [1.2. Education]
 건국대학교, 2017-03 ~ 2024-08
