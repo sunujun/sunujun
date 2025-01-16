@@ -73,12 +73,12 @@ Moji팀 / Front-End Engineer
 
 Moji, Repick
 
-### Moji
+### Moji
 
 - 2024.07 - 2024.12
 - 글로벌 언어교환 플랫폼 Moji 개발
 
-### Repick
+### Repick
 
 - 2024.10 - 2024.12
 - 앱테크 어플 Repick 개발
