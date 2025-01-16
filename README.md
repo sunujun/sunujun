@@ -23,15 +23,13 @@ Swift        | 6개월       | 없음     |
 
 
 ### [1.4. Experiences]
-  - 프로그래밍 경험: 8 년
-  - 총 상용 경력 26 개월
-    - 정규직: 26 개월
+  - 총 상용 경력 34 개월
 
 **<details><summary>주식회사콩스튜디오코리아</summary>**
 
 **period**
 
-2020-01 - 2022-02
+2020-01 - 2022-03 (2년 3개월)
 
 **position**
 
@@ -43,7 +41,7 @@ Swift        | 6개월       | 없음     |
 
 ### 미큐트
 
-- 2020.01 - 2022.02
+- 2020.01 - 2022.03
 - 미큐트 프론트엔드 설계 및 개발
 
 ### Tech Stack
@@ -60,6 +58,73 @@ Swift        | 6개월       | 없음     |
 
 미큐트 앱 개발 및 Android 및 IOS 스토어 런칭
 </details>
+
+**<details><summary>주식회사더블유쓰리컴퍼니</summary>**
+
+**period**
+
+2024-07 - 2024-12 (6개월)
+
+**position**
+
+Moji팀 / Front-End Engineer
+
+**projects**
+
+Moji, Repick
+
+### Moji
+
+- 2024.07 - 2024.12
+- 글로벌 언어교환 플랫폼 Moji 개발
+
+### Repick
+
+- 2024.10 - 2024.12
+- 앱테크 어플 Repick 개발
+
+### Tech Stack
+
+- React Native
+- Typescript
+- Redux Toolkit
+- Firebase
+- i18n
+
+### Description
+
+Moji 앱 개발 및 Android 및 IOS 스토어 배포
+Repcik 앱 개발 및 Android 스토어 배포
+</details>
+
+**<details><summary>주식회사더블티</summary>**
+
+**period**
+
+2025-01 - (재직 중)
+
+**position**
+
+모바일 앱 개발팀 / Front-End Engineer
+
+**projects**
+
+헤임달
+
+### 헤임달
+
+- 2025.01 - 
+
+### Tech Stack
+
+- React Native
+- Typescript
+
+### Description
+
+</details>
+
+
 
 ## [2. Introduction]
 
