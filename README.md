@@ -12,7 +12,6 @@
 건국대학교, 2017.03 - 2024.08
 
   - 주전공: 컴퓨터공학부
-  - 학점: 3.77 / 4.50
 
 ### [1.3. Skills]
 Skill        | Experiences | Careers | Note
